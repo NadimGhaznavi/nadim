@@ -2,6 +2,9 @@ remote_theme: NadimGhaznavi/minimo
 
 plugins:
   - jekyll-relative-links
+mycount:
+  endpoint: "https://count.osoyalce.com/count"
+  site: "nadim"
 relative_link:
   enabled: true
   collections: true
