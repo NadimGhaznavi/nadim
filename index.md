@@ -29,6 +29,13 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 |-----------------------------------------------------------|
 | January 2024 – Present                                    |
 
+### LlamaSrv - Self-Hosted LLM Service
+*November 2026*
+[**LlamaSrv**](https://llamasrv.osoyalce.com) is a self-hosted service that provides the backend infrastructure to house an AI model. Multiple AI enabled applications can use this service concurrently. Built using [BMForge](https://bmforge.osoyalce.com).
+
+**TechStack:**
+[Python](https://www.python.org/), [llama.cpp](https://llama-cpp.com/), [systemd](https://systemd.io/)
+
 ### DevLog - Git Time Tracker
 *November 2026*
 
